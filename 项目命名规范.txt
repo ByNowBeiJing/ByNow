@@ -1,0 +1,27 @@
+资源命名规则
+
+
+类型：                 前缀：
+Level/Map              L_
+Blueprint              BP_
+Material               M_
+StaticMesh             S_
+Skeletal Mesh          SK_
+Texture                T_
+Partical System        PS_
+Widget Blueprint       WBP_
+
+
+
+文件夹命名规则
+
+|---项目文件夹名称
+   |--Maps
+   |--Textures
+   |--Materials
+   |--Blueprints
+   |--Effects
+   |--Animations
+   |--Sounds
+   |--Sources
+   |--Meshes
